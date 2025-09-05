@@ -146,3 +146,4 @@
 /Users/yujinia/Desktop/BCIT_Term_4/COMP_4976/Lab/Lab1/consoleAppForStudents/obj/Debug/net9.0/consoleAppForStudents.pdb
 /Users/yujinia/Desktop/BCIT_Term_4/COMP_4976/Lab/Lab1/consoleAppForStudents/obj/Debug/net9.0/consoleAppForStudents.genruntimeconfig.cache
 /Users/yujinia/Desktop/BCIT_Term_4/COMP_4976/Lab/Lab1/consoleAppForStudents/obj/Debug/net9.0/ref/consoleAppForStudents.dll
+/Users/yujinia/Desktop/BCIT_Term_4/COMP_4976/Lab/Lab1/consoleAppForStudents/obj/Debug/net9.0/consoleAppForStudents.sourcelink.json
